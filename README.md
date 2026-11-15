@@ -1,3 +1,29 @@
+# OpenClaw-Medical-Skills
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+The largest open-source medical AI skills library for OpenClaw🦞.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+面向 OpenClaw 的最大开源医疗 AI 技能库。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # OpenClaw Medical Skills
 
 <div align="center">
